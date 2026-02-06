@@ -1,0 +1,133 @@
+
+div.dc
+{
+    background-color: rgb(72, 80, 233);
+    border: 10px solid rgb(255, 255, 255);
+    padding: 40px;
+    font-size: xx-large;
+}
+
+div.dc h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+div p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    padding: 25px;
+}
+
+div.batman h2
+{
+    color: rgb(254, 243, 47);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px dashed black;
+    background-color: rgb(41, 41, 41);
+}
+
+div.batman p
+{
+    background-color: rgb(255, 255, 255);
+    border: 5px dashed black;
+    border-top: 0px;
+
+}
+
+div.wonder-woman h2
+{
+    background-color: rgb(226, 27, 27);
+    border: 5px solid rgb(219, 219, 43);
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.wonder-woman p
+{
+    background-color: rgb(14, 31, 159);
+    color: white;
+    border: 5px solid rgb(219, 219, 43);
+    border-top: 0px;
+}
+
+div.superman h2
+{
+    background-color: rgb(172, 8, 8);
+    border: 5px solid rgb(172, 8, 8);
+    color: rgb(251, 230, 71);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+div.superman p
+{
+    background-color: rgb(251, 230, 71);
+    border: 5px solid rgb(172, 8, 8);
+    border-top: 0px;
+    color: rgb(41, 41, 41);
+}
+
+div.marvel
+{
+    background-color: rgb(159, 27, 27);
+    border: 10px solid rgb(114, 19, 19);
+    padding: 40px;
+    font-size: xx-large;
+}
+
+div.marvel h1
+{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+
+div.spiderman h2
+{
+    background-color: rgb(8, 8, 105);
+    border: 5px dotted black;
+    color: rgb(238, 237, 234);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.spiderman p
+{
+    border: 5px dotted black;
+    background-color: rgb(109, 4, 4);
+    color: rgb(238, 237, 234);
+    border-top: 0px;
+}
+
+div.iron-man h2
+{
+    border: 20px solid rgb(98, 4, 4);
+    background-color: darkgoldenrod;
+    border-bottom: 10px dashed rgb(98, 4, 4);
+    color: rgb(190, 226, 244);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div.iron-man p
+{
+    border: 20px solid rgb(98, 4, 4);
+    background-color: darkgoldenrod;
+    border-top: 0px;
+    color: rgb(0, 0, 0);
+}
+
+div.thor h2
+{
+    background-color:rgb(29, 29, 29);
+    border: 5px solid rgb(160, 121, 21);
+    color: rgb(160, 121, 21);
+    font-family: 'Times New Roman', Times, serif;
+}
+div.thor p
+{
+    border: 5px solid rgb(160, 121, 21);
+    background-color: rgb(109, 4, 4);
+    color: rgb(245, 245, 245);
+    border-top: 0px;
+}
